@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+youtube-transcript-api
+sentence-transformers
+google-genai
+python-dotenv
+numpy
+pandas
+requests
